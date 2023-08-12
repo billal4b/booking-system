@@ -7,9 +7,12 @@ A common meeting room, which can be pre-booked for booking as a time slot method
 #### laravel command
 ```sh
 composer update
+```
+Update `.env ` file Information
+
+```sh
 php artisan migrate
 ```
-
 #### Vue js command
 This template should help get you started developing with Vue 3 in Vite.
 ```sh
