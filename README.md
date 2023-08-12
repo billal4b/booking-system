@@ -26,6 +26,9 @@ npm install
 #### Run command
 ```sh
 php artisan serve
+
+```
+```sh
 npm run dev
 
 ```
