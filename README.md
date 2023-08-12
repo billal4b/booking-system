@@ -28,6 +28,7 @@ npm install
 php artisan serve
 
 ```
+Go to the vue js folder directory and then run this command
 ```sh
 npm run dev
 
