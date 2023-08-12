@@ -6,9 +6,8 @@ A common meeting room, which can be pre-booked for booking as a time slot method
 ## Installaton this project
 #### laravel command
 ```sh
-composer create-project laravel/laravel booking-system
 composer update
-composer php artisan migrate
+php artisan migrate
 ```
 
 #### Vue js command
