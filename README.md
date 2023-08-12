@@ -18,6 +18,7 @@ php artisan migrate
 ```
 #### Vue js command
 This template should help get you started developing with Vue 3 in Vite.
+Go to the vue js folder directory and then run this command
 ```sh
 npm install
 
