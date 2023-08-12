@@ -1,5 +1,7 @@
 # Metting
-Meeting Room Booking.
+A common meeting room, which can be pre-booked for booking as a time slot method.
+
+![billal4b Github Banner](Screenshot.png)
 
 ## Installaton this project
 #### laravel command
