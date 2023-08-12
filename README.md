@@ -6,7 +6,7 @@ A common meeting room, which can be pre-booked for booking as a time slot method
 ![Booking System](Screenshot1.png)
 
 
-## Installaton this project
+## Installaton
 #### laravel command
 ```sh
 composer update
