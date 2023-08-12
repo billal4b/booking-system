@@ -1,9 +1,10 @@
 # Booking System
-A common meeting room, which can be pre-booked for booking as a time slot method.(Php, laravel, vue js booking system)
+A common meeting room, which can be pre-booked for booking as a time slot method. (Php, laravel, vue js booking system)
 
-![billal4b Github Banner](Screenshot.png)
+![Booking System](Screenshot.png)
 
-![billal4b Github Banner](Screenshot-1.png)
+![Booking System](Screenshot1.png)
+
 
 ## Installaton this project
 #### laravel command
@@ -43,3 +44,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+[def]: Screenshot1.png
